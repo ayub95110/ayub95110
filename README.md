@@ -14,7 +14,10 @@
 ---
 
 ### 🌍 Location
-- 📍 Based in <b>KAPHO, PATANI</b> & <b>BETONG, YALA</b>
+- 💻 <b>Work : </b> KAPHO, PATANI  
+- 🏠 <b>Home (Me) : </b> BETONG, YALA  
+- ❤️ <b>Home (Wife) : </b> KHUANDON, SATUN
+
 
 ---
 
