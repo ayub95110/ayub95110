@@ -10,9 +10,13 @@
   My code lives in GitHub, but half my solutions live in Stack Overflow.  
   If you find bugs here, don’t worry—they’re features. 👨‍💻☕"
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
+</p>
 
----
-<h4 align="center"> GitHub Stats </h4>
+<hr>
+
+<h3 align="center"> 🏆 :  GitHub Stats 🎉 </h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayub95110&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
   &nbsp;&nbsp;&nbsp;
@@ -21,14 +25,14 @@
 
 ---
 
-### 🌍 Location
+### 🌍 Location - ✨
 - 💻 <b>Work :</b> Kapho, Patani  
 - 🏠 <b>Home (Me) :</b> Betong, Yala  
 - ❤️ <b>Home (Wife) :</b> Khuandon, Satun
 
 ---
 
-### 💻 Programming & Markup Language <br><br>
+### 💻 Programming & Markup Language - ✨ <br><br>
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/></a>
@@ -45,7 +49,7 @@
 
 ---
 
-### 📕 Tools & Frameworks <br><br>
+### 📕 Tools & Frameworks - ✨ <br><br>
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"/></a>
@@ -62,62 +66,72 @@
   &nbsp;&nbsp;&nbsp;
 <a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="36" height="36" alt="Ubuntu"/></a>
   &nbsp;&nbsp;&nbsp;
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker"/></a>
-  &nbsp;&nbsp;&nbsp;
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker"/>
+</a>
 </p>
 
 ---
 
-### 🎈 Others <br><br>
+### 🤖 AI Tools - ✨<br><br>
 <p align="left">
-  <a href="https://www.canva.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="36" height="36" alt="Canva"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.notion.so/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" width="36" height="36" alt="Notion"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://winscp.net/" target="_blank">
-    <img src="https://winscp.net/favicon.ico" width="36" height="36" alt="WinSCP"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://mikrotik.com/download" target="_blank">
-    <img src="https://i.imgur.com/It2oC1y.png" width="36" height="36" alt="Winbox"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://dbeaver.io/" target="_blank">
-    <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" width="36" height="36" alt="DBeaver"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.navicat.com/" target="_blank">
-    <img src="https://www.navicat.com/images/navicat/navicat_logo.svg" width="36" height="36" alt="Navicat"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://notepad-plus-plus.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Notepad%2B%2B_Logo.png" width="36" height="36" alt="Notepad++"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://anydesk.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/anydesk.svg" width="36" height="36" alt="Anydesk"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/microsoft-365/word" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-word-2013.svg" width="36" height="36" alt="Word"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="36" height="36" alt="Excel"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/microsoft-365/powerpoint" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-powerpoint-2013.svg" width="36" height="36" alt="PowerPoint"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.cpuid.com/softwares/cpu-z.html" target="_blank">
-    <img src="https://i.imgur.com/1T5T0dQ.png" width="36" height="36" alt="CPU-Z"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://zoom.us/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/zoom-icon.svg" width="36" height="36" alt="Zoom"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.webex.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/webex.svg" width="36" height="36" alt="Webex"/>
-  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- ChatGPT -->
+  <a href="https://chat.openai.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="36" height="36" alt="ChatGPT"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- Copilot -->
+  <a href="https://github.com/features/copilot" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/githubcopilot.svg" width="36" height="36" alt="GitHub Copilot"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- Hugging Face -->
+  <a href="https://huggingface.co/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" width="36" height="36" alt="Hugging Face"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- Gemini (Google AI) -->
+  <a href="https://gemini.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/google.svg" width="36" height="36" alt="Google Gemini"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- MidJourney (ใช้ Discord โลโก้แทน) -->
+  <a href="https://www.midjourney.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="36" height="36" alt="MidJourney"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- Claude AI -->
+  <a href="https://claude.ai/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/anthropic.svg" width="36" height="36" alt="Claude AI"/></a>
 </p>
-
 
 ---
 
-### 🌐 Connect with Me <br><br>
+### 🎈 Others - ✨ <br><br>
+<p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Canva -->
+  <a href="https://www.canva.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/canva.svg" width="36" height="36" alt="Canva"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- Notion -->
+  <a href="https://www.notion.so/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg" width="36" height="36" alt="Notion"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- Winbox (ใช้โลโก้ Mikrotik) -->
+  <a href="https://mikrotik.com/download" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mikrotik.svg" width="36" height="36" alt="Winbox/Mikrotik"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- DBeaver -->
+  <a href="https://dbeaver.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dbeaver.svg" width="36" height="36" alt="DBeaver"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- Notepad++ -->
+  <a href="https://notepad-plus-plus.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notepadplusplus.svg" width="36" height="36" alt="Notepad++"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- AnyDesk -->
+  <a href="https://anydesk.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/anydesk.svg" width="36" height="36" alt="AnyDesk"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- Word -->
+  <a href="https://www.microsoft.com/microsoft-365/word" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftword.svg" width="36" height="36" alt="Microsoft Word"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- Excel -->
+  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" width="36" height="36" alt="Microsoft Excel"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- PowerPoint -->
+  <a href="https://www.microsoft.com/microsoft-365/powerpoint" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftpowerpoint.svg" width="36" height="36" alt="Microsoft PowerPoint"/></a>
+</p>
+
+---
+
+
+### 🌐 Connect with Me - ✨ <br><br>
 <p align="left">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/ayub95110" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/></a>
@@ -125,6 +139,9 @@
 <a href="https://x.com/III_yubee" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter"/></a>
   &nbsp;&nbsp;&nbsp;
 <a href="https://facebook.com/ayub.baha" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook"/></a>
-  &nbsp;&nbsp;&nbsp;
+
+---
+<h3 align="center">
+  <img src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" width="350"/>
 </p>
 
